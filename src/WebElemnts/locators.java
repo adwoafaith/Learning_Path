@@ -43,6 +43,7 @@ public class locators {
 		
 		
 		
+		//xpath = //tagname[@Attribute='value']
 		//using xpath
 		//we have absolute and relative
 		//input[@id='login-username'
